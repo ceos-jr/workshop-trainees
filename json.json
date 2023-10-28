@@ -1,0 +1,17 @@
+{
+  "age": 20,
+  "name": "Pedro",
+  "wallet": {
+    "money": 0,
+    "cards": [
+      {
+        "bank": "Inter",
+        "secret": 123
+      },
+      {
+        "bank": "C6",
+        "secret": 321
+      }
+    ]
+  }
+}
